@@ -2,9 +2,6 @@
 
 The LumberHack is a simple and robust Rogue Access Point Hosting Solution that hosts a captive portal which will store the credentials the user enters.
 
-## Getting Started
-
-LumberHack is pretty lightweight. 
 
 ### Prerequisites
 
@@ -12,46 +9,22 @@ What things you need to install the software and how to install them
 
 * A wireless adapter that supports monitor mode. We used the Alfa AWUSO36NH.
 * A Raspberry Pi running Kali
-* Nginx, Hostapd, and dnsmasq
-* 
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
+1. Install hostapd, dnsmasq, and nginx. This can be done using the following command
+```bash
+  sudo apt install hostapd dnsmasq nginx
 ```
 
-And repeat
-
+2. Clone the LumberHack Repository
+3. run the following commands to create the directory for the captive portal to be stored
+```bash
+mkdir /var/www/captive_portal
+cd /var/www/captive_portal
 ```
-until finished
-```
+4. Copy the captive portal you wish to use into the directory you just created
 
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## Deployment
 
@@ -65,7 +38,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for rules regarding pull requests. Before contributing make sure to read [CODE_OF_CONDUCT.md] for details on our code of conduct.
 
 ## Versioning
 
