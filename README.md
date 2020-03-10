@@ -40,9 +40,9 @@ Just boot the raspberry pi up and the LumberHack should start hosting.
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Hostapd](https://w1.fi/hostapd/) - Access Point hosting software
+* [Dnsmasq](https://github.com/dnsmasq/dnsmasq) - DCHP server for ip address allocation
+* [Nginx](https://www.nginx.com/) - Serves captive portal to connecting user
 
 ## Contributing
 
