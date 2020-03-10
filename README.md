@@ -46,7 +46,7 @@ Just boot the raspberry pi up and the LumberHack should start hosting.
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for rules regarding pull requests. Before contributing make sure to read [CODE_OF_CONDUCT.md] for details on our code of conduct.
+Please read [CONTRIBUTING.md](https://github.com/KaelenCarling/LumberHack/blob/master/CONTRIBUTING.md) for rules regarding pull requests. Before contributing make sure to read [CODE_OF_CONDUCT.md](https://github.com/KaelenCarling/LumberHack/blob/master/CODE_OF_CONDUCT.md) for details on our code of conduct.
 
 ## Authors
 
