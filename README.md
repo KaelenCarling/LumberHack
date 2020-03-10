@@ -24,11 +24,19 @@ mkdir /var/www/captive_portal
 cd /var/www/captive_portal
 ```
 4. Copy the captive portal you wish to use into the directory you just created
-
+5. change directory to
+```
+ cd /etc/nginx/sites-enabled/
+```
+and copy the captive_portal file to that directory
+6. run LumberHack.sh
+```
+ ./LumberHack.sh
+```
+7. If you want LumberHack to start on boot up add the start up script included to the xinitrc file in the home directory
 
 ## Deployment
-
-Add additional notes about how to deploy this on a live system
+Just boot the raspberry pi up and the LumberHack should start hosting.
 
 ## Built With
 
@@ -40,15 +48,12 @@ Add additional notes about how to deploy this on a live system
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for rules regarding pull requests. Before contributing make sure to read [CODE_OF_CONDUCT.md] for details on our code of conduct.
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Kaelen Carling** - *Initial work* - [Github Page](https://github.com/KaelenCarling)
+* **Sara Huber** - *Initial work* - [Github Page](https://github.com)
+* **Malik Jones** - *Initial work* - [Github Page](https://github.com)
+* **Kristine Mae Hermosado** - *Initial work* - [Github Page](https://github.com)
 
 ## License
 
@@ -56,7 +61,6 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+
+* **Kyler Carling** - *Helped With Start up functionality and some grep problems* - [Github Page](https://github.com/KylerCarling)
 
