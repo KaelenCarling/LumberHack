@@ -40,11 +40,12 @@ The requirements to make our system function properly is by having a database th
 
 
 ## 5. Design Patterns
-  1. Design Pattern 1 (Structural) Composite:
-    1.
-  2. Design Pattern 2 (Behavioral) Command:
-  3. Design Pattern 3 (Behavioral) Strategy:
-    1.
+  1. Design Pattern 1 (Structural) Composite: [link](https://github.com/KaelenCarling/LumberHack/blob/de27ff2a981ffb99e77e4a9d8a6dee8467958cc6/Lumberhack.sh) uses a subclass to start up the program
+  ![Composite Pattern](https://github.com/KaelenCarling/LumberHack/blob/Deliverable-5/Pictures/pattern%201.png)
+  2. Design Pattern 2 (Behavioral) Command:[link](https://github.com/KaelenCarling/LumberHack/blob/de27ff2a981ffb99e77e4a9d8a6dee8467958cc6/Lumberhack.sh) uses script that launches startup script
+  ![Behavioural Pattern](https://github.com/KaelenCarling/LumberHack/blob/Deliverable-5/Pictures/pattern%202.png)
+  3. Design Pattern 3 (Behavioral) Strategy:[link](https://github.com/KaelenCarling/LumberHack/blob/Deliverable-5/Pictures/pattern%202.png) uses a captive portal to get credentials or can get from Database by selecting credentials
+  ![Strategy Pattern](https://github.com/KaelenCarling/LumberHack/blob/Deliverable-5/Pictures/pattern%203.png)
 
 
 
