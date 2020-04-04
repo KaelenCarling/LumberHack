@@ -9,12 +9,13 @@ In Group 4 we have decided to create a system called LumberHack. The LumberHack 
 The requirements to make our system function properly is by having a database that stores the credentials that the user is harvesting from the login captive portals which can be a CAS, Google or Generic.  The user will have an option for starting the LumberHack on boot and use the command line interface for parameters to start up or shutdown. Operators are people accessing the LumberHack and collecting the credentials. As for the targets, it is the people who are going to enter their credentials into the captive portal. Overall, as developers we want to create a tool for security professionals a way to test organizations if there are any security flaws.
 
 ## 2. Architecture:
- 
+![Architecture Diagram](https://github.com/KaelenCarling/LumberHack/blob/Deliverable-5/base_Uml.jpg)
 
 ## 3. Class Diagram:
-
+![Class Diagram](https://github.com/KaelenCarling/LumberHack/blob/Deliverable-5/Deliverable_5_3.png)
 
 ## 4. Sequence Diagram
+![Sequence Diagram](https://github.com/KaelenCarling/LumberHack/blob/Deliverable-5/sequence%20diagram.png)
 
 **Use case:** Setting up the access point
 
