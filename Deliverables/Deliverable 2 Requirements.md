@@ -45,7 +45,7 @@ We will develop our MVP by working from the front end to the back end. We will s
 ## 6. Use cases
 ### 6.1 Diagram
 **Use Case Diagram Link**: https://github.com/KaelenCarling/LumberHack/blob/master/Use%20Case%20diagram.PNG
-![](https://github.com/KaelenCarling/LumberHack/blob/master/Use%20Case%20diagram.PNG)
+![](https://github.com/KaelenCarling/LumberHack/blob/master/Pictures/Use%20Case%20diagram.PNG)
 
 ### 6.2 Use Case Descriptions
 **Use Case**: Stores Data into Database
@@ -144,8 +144,8 @@ As an Operator I want to be able to have the credentials exported to a file that
 
 ## 8. Trello
 **Trello Link**: https://trello.com/invite/b/QdXw0UKb/b24ae93df8d9fc00d48f82204c775af6/lumberhacks-cs-386
-**Screenshot link**: https://github.com/KaelenCarling/LumberHack/blob/master/trello.PNG
-![](https://github.com/KaelenCarling/LumberHack/blob/master/trello.PNG)
+**Screenshot link**: https://github.com/KaelenCarling/LumberHack/blob/master/Pictures/trello.PNG
+![](https://github.com/KaelenCarling/LumberHack/blob/master/Pictures/trello.PNG)
 
 
 
