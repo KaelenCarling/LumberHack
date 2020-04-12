@@ -1,7 +1,7 @@
 # Deliverable 1 Inception
 
 ### 1. Introduction
-
+ 
 Currently there is no good solution for hosting a rogue wireless access point. Our project is hoping to remedy this by providing an easy to use program/system that will host a rogue access point. “The LumberHack” will host a wifi access point that will require a user to enter their credentials into a captive portal in order to access the internet. These credentials will then be saved in a mySQL database along with some other usage information about the user
 
 
@@ -14,7 +14,7 @@ Software used for Access point hosting and server structure:
 * MySQL - Used as a database for storing credentials
 
 ### 2. Initial  value  proposition  and  consumer  segments
-This system will allow the user to collect credentials from ignorant users. This will have very useful applications for red teams as well as anyone doing ethical hacking research.
+We will be building a rogue access point (RAP) which will host a “dummy site” that will look and act as a login page for a wifi access point. However, this will harvest the credentials entered and store them in a database. The consumer segment of groups of people that can use our LumberHack product is business organizations, companies, and hackers.  This product would be beneficial for these specific groups of people to use for security reasons for companies to check if they have any flaws and good research for ethical hackers.  
 
 ### 3. Interview summaries
 A brief summary of each interview conducted
