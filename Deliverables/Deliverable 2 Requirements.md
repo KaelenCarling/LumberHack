@@ -3,13 +3,14 @@
 ## 1. Positioning
 ### 1.1 Problem Statement
 
-There is no easy to setup/use solution for hosting a rogue access point and the current options don’t support credential harvesting. This impacts information security professionals ability to test organizations.
+There is no easy to setup/use the solution for hosting a rogue access point and the current options don’t support credential harvesting. This impacts information security professionals ability to test organizations.
 
 #### 1.2 Product Position Statement 
 For ethical hackers hosting a rogue access point can be difficult. The LumberHack is a rogue access point that allows the operator to scrape credentials using a fake captive portal. Our project allows security professionals to test their teams and organizations for security flaws.
 
 ### 1.3 Value proposition
-The LumberHack will host a rogue access point that directs to a dummy site. The user will be taken to a page that will act as a login page that will then harvest the credentials for the clients using it and store the information into a database.
+The LumberHack will host a rogue access point that directs to a dummy site. The user will be taken to a page that will act as a login page that will then harvest the credentials for the clients using it and store the information into a database. The groups of people that will use this tool are business, companies, organizations and ethical hackers to check for security flaws. 
+
 
 ## 2. Stake Holders
 
@@ -50,7 +51,7 @@ We will develop our MVP by working from the front end to the back end. We will s
 **Use Case**: Stores Data into Database
 **Primary Actor**: Rogue Access Point
 **Description**: Data is collected from the user and stored into the database
-**Pre-Condition**: The user has insert credentials into the rogue access point 
+**Pre-Condition**: The user has to insert credentials into the rogue access point 
 **Post-condition**: The user will get redirected to a new page and their information is stored 
 **Main Flow**: 
 1. User inputs credentials
@@ -121,25 +122,25 @@ We will develop our MVP by working from the front end to the back end. We will s
 1. The system notifies the business that the requested data does not exist
 
 ## 7. User Stories
-As a recipe contributor, I want to see the rogue access point to collect information about a user so that I can use it for research for ethical hackers.
+As a recipe contributor, I want to see the rogue access point to collect information about a user so that I can use it for research for ethical hackers(Priority #10; approximately 60 hours).
 
-As a developer, I want to create a recipe database system so that business can manage data in a beneficial use.
+As a developer, I want to create a recipe database system so that business can manage data in a beneficial use(Priority #7; approximately 20 hours).
 
-As a user, I want to be able to insert my credentials into a form and submit it to the database.
+As a user, I want to be able to insert my credentials into a form and submit it to the database(Priority #4; approximately 40 hours).
 
-As a business, I want to be able to have access to the user’s credentials.
+As a business, I want to be able to have access to the user’s credentials(Priority #1; approximately 60 hours).
 
-As a business, I want to be able to manage a user’s data.
+As a business, I want to be able to manage a user’s data(Priority #3; approximately 20 hours). 
 
-As a developer, I want to make an accessible website for users to insert their credentials.
+As a developer, I want to make an accessible website for users to insert their credentials(Priority #2; approximately 30 hours). 
 
-As a developer, I want to see the number of views of users accessing the website.
+As a developer, I want to see the number of views of users accessing the website(Priority #9; approximately 20 hours).
 
-As a developer, I want to ensure the design of the form is both functional and aesthetically convincing.
+As a developer, I want to ensure the design of the form is both functional and aesthetically convincing(Priority #8; approximately 10 hours).
 
-As an Operator I want to be able to customize the startup options of the LumberHack.
+As an Operator I want to be able to customize the startup options of the LumberHack(Priority #5; approximately 30 hours).
 
-As an Operator I want to be able to have the credentials exported to a file that I can copy from.
+As an Operator I want to be able to have the credentials exported to a file that I can copy from(Priority #6; approximately 15 hours).
 
 ## 8. Trello
 **Trello Link**: https://trello.com/invite/b/QdXw0UKb/b24ae93df8d9fc00d48f82204c775af6/lumberhacks-cs-386
