@@ -1,0 +1,98 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 13, 2020, 9:51:40 AM
+    Author     : SILVER
+*/
+
+body, html {
+
+    width: 75%;
+    margin: 170px;
+    padding: 20px;
+}
+
+h4 
+{
+    text-align: center; 
+}
+
+*,
+*::before,
+*::after {
+
+    box-sizing: border-box;
+}
+
+.main-body {
+
+    padding: 1px 160px;
+}
+
+button {
+
+    padding: 15px;
+    background-color: blue;
+    border-radius: 5px;
+    color: white;
+}
+
+button:disabled {
+
+    background-color: lightblue;
+}
+
+img{
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+}
+
+h3 {
+
+    text-align: left;
+    font-weight: bold; 
+}
+
+
+input[type=text],
+input[type=number],
+input[type=email],
+input[type=password] {
+
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: whitesmoke;
+}
+
+visually-hidden {
+
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    left: -10000px;
+    overflow: hidden;
+}
+
+.control, fieldset {
+
+    margin: 6px 0;
+}
+
+label {
+
+    display: inline-block;
+    vertical-align: top;
+}
+
+
+
+
+
+
