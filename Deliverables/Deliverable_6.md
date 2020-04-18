@@ -1,4 +1,4 @@
-# D5. Implementation 2
+# D6. Implementation 2
 
 ## 1. Description:
 In Group 4 we have decided to create a system called LumberHack. The LumberHack will host a rogue access point that directs the operator to a “dummy site”. The user will be taken to a page that acts as a login page that will harvest their credentials. By gathering their information it will be stored into a database. Our product is supposed to be used as a tool that allows LumberHack which is a rogue access point to let the user harvest credentials by using a fake captive portal to gain knowledge and to improve security for big companies if they have any security flaws. The features specified in the MVP: in the deliverable 2 we have specified that our MVP was going to be developed by working on the frontend and backend of the portals. By building the captive portals for the users to use to insert their login credentials allows us to add features and test integration.
