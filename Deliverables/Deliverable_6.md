@@ -16,7 +16,7 @@ In Group 4 we have decided to create a system called LumberHack. The LumberHack 
  * https://trello.com/c/Q5KhmNey
  * Malik Jones, https://github.com/KaelenCarling/LumberHack/tree/master/CaptivePortals 
  * Lexxi Smith
- * Google Front End
+ * ![Google Front End](https://github.com/KaelenCarling/LumberHack/blob/master/Pictures/GoogleFrontEnd.png)
  
 ### Credential Scraping Backend
  * https://trello.com/c/vV5fCxJr
