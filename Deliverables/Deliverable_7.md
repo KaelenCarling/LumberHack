@@ -78,3 +78,20 @@ The key requirement to make our system function properly is by having a database
 * Do you have any other suggestions/comments?
   * s
 
+**ken Interview**
+* How long did you work with the LumberHack?
+  * s
+* What did you do/test with the LumberHack
+  * s
+* What were your opinions of the LumberHack as an operator of a system?
+  * s
+* Would you use the LumberHack to host a Rogue Access point?
+  * s
+* Which captive portal did you prefer to use?
+  * s
+* What was your favorite feature of the LumberHack?
+  * s
+* What was your least favorite aspect of the LumberHack
+  * s
+* Do you have any other suggestions/comments?
+  * s
