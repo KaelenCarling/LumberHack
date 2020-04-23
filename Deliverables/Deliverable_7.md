@@ -16,7 +16,7 @@ The key requirement to make our system function properly is by having a database
 ### Integration Test
  * Test Framework - Bats: https://github.com/bats-core/bats-core
  * Github Link to testing folder: https://github.com/KaelenCarling/LumberHack/tree/master/Tests
- * Class being tested: https://github.com/KaelenCarling/LumberHack/blob/KaelenCarling-Testing-Branch/Lumberhack.sh
+ * Class being tested: https://github.com/KaelenCarling/LumberHack/blob/master/Lumberhack.sh
  * Testing Class:![Integration Test](https://github.com/KaelenCarling/LumberHack/blob/master/Pictures/Integration%20Test.png)
  
 ### Acceptance Test
