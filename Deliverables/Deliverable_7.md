@@ -1,14 +1,9 @@
 # D7. Verification and Validation
 
 ## 1. Description:
-In Group 4 we have decided to create a system called LumberHack.The LumberHack's purpose is to provide a system that hosts a rogue access point that directs the user to a “dummy site”. The user will be taken to a page that acts as a login page that will harvest their credentials. By gathering their information it will be stored into a database. Our product is more a tool that is supposed to allow LumberHack which is a rogue access point to let the user harvest credentials by using a fake captive portal to gain knowledge and to improve security for well known big companies if they have any security flaws.  
+In Group 4 we have decided to create a system called LumberHack.The LumberHack's purpose is to provide a system that hosts a rogue access point that directs the user to a “dummy site”. The user will be taken to a page that acts as a login page that will harvest their credentials. By gathering their information it will be stored into a database. Our product is more a tool that is supposed to allow LumberHack which is a rogue access point to let the user harvest credentials by using a fake captive portal to gain knowledge and to improve security for well known big companies if they have any security flaws. 
 
 The key requirement to make our system function properly is by having a database that stores the credentials that the user is harvesting from the login captive portals which can be a CAS, Google or Generic that will be hosted as an access point that looks like a rogue access point. The user will have an option for starting the LumberHack on boot and use the command-line interface for parameters to start up or shutdown. Operator's are people accessing the LumberHack and collecting the credentials. As for the targets, it is the people who are going to enter their credentials into the captive portal. Overall this tool should be used as a tool to help to improve security flaws in well known big companies. 
-
-
-**Trello =** https://trello.com/invite/b/QdXw0UKb/b24ae93df8d9fc00d48f82204c775af6/lumberhacks-cs-386
-
-**Github link =** https://github.com/KaelenCarling/LumberHack
 
 ## 2. Verification:
 
