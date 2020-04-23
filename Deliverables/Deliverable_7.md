@@ -93,16 +93,16 @@ The key requirement to make our system function properly is by having a database
 
 ### Reflections
  * What features worked well?
-  * The actual credential scraping performs really well. It's very smooth is almost undetectable on the user's end.
+   * The actual credential scraping performs really well. It's very smooth is almost undetectable on the user's end.
  * What can be changed?
-  * There could be more captive portals to choose from and making a menu to select the portal you want. also I would like to change the start up script to be a little less resource intensive
+   * There could be more captive portals to choose from and making a menu to select the portal you want. also I would like to change the start up script to be a little less resource intensive
  * How is the learning curve of your system?
-  * Set up is difficult because the operator has to put their own device into monitor mode as we can't do that for them
+   * Set up is difficult because the operator has to put their own device into monitor mode as we can't do that for them
  * Did the users perform the tasks as you expected?
-  * For the most part they did what I thought they would. Matthew made his own access point for the LumberHack which He is intending to add to the project as a collaborator.
+   * For the most part they did what I thought they would. Matthew made his own access point for the LumberHack which He is intending to add to the project as a collaborator.
  * Did the users’ actions produce the results  they  expected?
-  * For the most part. Kyler messed around with some SQL injection in the captive portal which had some wonky effects on the backend. Other than that the actions taken gave the behaviour expected.
+   * For the most part. Kyler messed around with some SQL injection in the captive portal which had some wonky effects on the backend. Other than that the actions taken gave the behaviour expected.
  * What did the users like the most?
-  * They liked the multiple captive portals. Specifically they like being able to switch them on the fly.
+   * They liked the multiple captive portals. Specifically they like being able to switch them on the fly.
  * Is your value proposition accomplished?
-  * Yes our value proposition has been accomplished. In fact we kind of exceeded it by providing multiple front ends for the captive portal.
+   * Yes our value proposition has been accomplished. In fact we kind of exceeded it by providing multiple front ends for the captive portal.
