@@ -62,21 +62,21 @@ The key requirement to make our system function properly is by having a database
 
 **Matthew Interview**
 * How long did you work with the LumberHack?
-  * s
+  * For about 30 minutes
 * What did you do/test with the LumberHack
-  * s
+  * I tested hosting an identical version of my home network. It was pretty convincing
 * What were your opinions of the LumberHack as an operator of a system?
-  * s
+  * It seemed pretty powerful but I wish there was a windows version
 * Would you use the LumberHack to host a Rogue Access point?
-  * s
+  * I don't really have a use for it specifically but it would definitely be my first choice.
 * Which captive portal did you prefer to use?
-  * s
+  * I used the google one and that seemed pretty useful. If I was to use it myself then I would probably make/download my own captive portal.
 * What was your favorite feature of the LumberHack?
-  * s
+  * It's small form factor and the fact that it's battery operated.
 * What was your least favorite aspect of the LumberHack
-  * s
+  * The fact that it only supports linux
 * Do you have any other suggestions/comments?
-  * s
+  * Make a windows port and maybe more captive portals
 
 **ken Interview**
 * How long did you work with the LumberHack?
