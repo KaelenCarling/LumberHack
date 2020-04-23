@@ -47,7 +47,7 @@ The key requirement to make our system function properly is by having a database
   * I helped a bit in development with setting up the raspberry pi that it runs on but today I worked with it for about 2 hours.
 * What did you do/test with the LumberHack
   * I set up a captive portal on the fake wifi network that looked like a google login and tested inputting credentials. I also tested if I the system sanitized it’s inputs with some SQL injection into the username and password boxes.
-* What were your opinions of the LumberHack as an operator of a system?
+* What were your opinions of the operations of LumberHack?
   * It wasn’t the most feature complete system I have ever worked with but it was very powerful and reliable.
 * Would you use the LumberHack to host a Rogue Access point?
   * Yes I would. It seems pretty useful for doing spear phishing attacks against specific targets.
@@ -65,7 +65,7 @@ The key requirement to make our system function properly is by having a database
   * For about 30 minutes
 * What did you do/test with the LumberHack
   * I tested hosting an identical version of my home network. It was pretty convincing
-* What were your opinions of the LumberHack as an operator of a system?
+* What were your opinions of the operations of LumberHack?
   * It seemed pretty powerful but I wish there was a windows version
 * Would you use the LumberHack to host a Rogue Access point?
   * I don't really have a use for it specifically but it would definitely be my first choice.
@@ -80,18 +80,18 @@ The key requirement to make our system function properly is by having a database
 
 **ken Interview**
 * How long did you work with the LumberHack?
-  * s
+  * I messed with it for about an hour today.
 * What did you do/test with the LumberHack
-  * s
-* What were your opinions of the LumberHack as an operator of a system?
-  * s
+  * I spent most of the time setting it up and getting my adapter working.
+* What were your opinions of the operations of LumberHack?
+  * It seems a pretty powerful once you set it up. The worst part about it is setting it up.
 * Would you use the LumberHack to host a Rogue Access point?
-  * s
+  * Yes. My job doesn't really need me to anymore though.
 * Which captive portal did you prefer to use?
-  * s
+  * I liked the router configuration menu. It seemed like it would be great for spearfishing IT professionals
 * What was your favorite feature of the LumberHack?
-  * s
+  * I'd probably say the premade captive portals. The ability to choose a custom portal for who your targeting is rather unique.
 * What was your least favorite aspect of the LumberHack
-  * s
+  * The fact that it doesn't auto configure my adapter for me. And that it currently requires an adapter.
 * Do you have any other suggestions/comments?
-  * s
+  * It could use a little fine tuning but it's pretty good as is.
